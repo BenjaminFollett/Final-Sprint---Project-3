@@ -1,0 +1,8 @@
+[ 
+    {"carbrand": "Chevrolet","model": "Cruize","type": "Car","year": "2013"},
+    {"carbrand": "Ford","model": "Ranger","type": "Truck","year": "2009"},
+    {"carbrand": "Toyota","model": "Corolla","type": "Car","year": "2021"},
+    {"carbrand": "Honda","model": "Civic","type": "Car", "year": "2012"},
+    {"carbrand": "Nissan","model": "Titan","type": "Truck","year": "2010"},
+    {"carbrand": "Dodge","model": "Ram","type": "Truck","year": "2019"}
+]
